@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+limit-holdem-nfsp/
+no-limit-holdem-nfsp/
+leduc/
+logs/
+logger/
+leduc-nfsp/
+models/
+.ipynb_checkpoints/
